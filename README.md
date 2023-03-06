@@ -1,6 +1,6 @@
 
 
-# image-accordion-animation-using-swiper-js
+# Image-Accordion-Animation-using-Swiper-js
 image accordion animation using swiper js
 
 # Static Website
